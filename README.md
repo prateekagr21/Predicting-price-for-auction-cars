@@ -7,3 +7,5 @@ made some crucial changes on dataset, learnt about new techniques of feature eng
 Plotted the heatmap for the following
 Now, starting with visualizations Today
 ..
+
+uploaded photos
