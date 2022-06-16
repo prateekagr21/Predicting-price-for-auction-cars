@@ -14,3 +14,4 @@ Going for feature engineering
 uploaded photos
 
 started with the algorithms.
+*regression algorithms
