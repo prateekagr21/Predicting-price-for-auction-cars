@@ -14,4 +14,8 @@ Going for feature engineering
 uploaded photos
 
 started with the algorithms.
+
+
 *regression algorithms
+
+onto the next after plotting the normal curve prediction plot for now.
