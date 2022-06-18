@@ -19,3 +19,4 @@ started with the algorithms.
 *regression algorithms
 
 onto the next after plotting the normal curve prediction plot for now.
+getting prediction scores for them both
