@@ -22,3 +22,5 @@ onto the next after plotting the normal curve prediction plot for now.
 getting prediction scores for them both
 
 decision tree regressor to go!
+extra-trees regressor model
+
