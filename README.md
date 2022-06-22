@@ -23,4 +23,5 @@ getting prediction scores for them both
 
 decision tree regressor to go!
 extra-trees regressor model
+going with prediction comparisions now
 
