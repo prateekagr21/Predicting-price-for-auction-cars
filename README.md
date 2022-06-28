@@ -74,7 +74,7 @@ buy from auctions that are open to the public instead._
 - Plotted the prediction.
 - `Prediction plot gave a Normal Distribution curve.`
 - Plotted the Important features which gave the prediction for the model.
-- Plotted the Best fit line for the model...
+- Plotted the Best fit line for the model !
 - Calculated Mean Absolute error and Root Mean Squared Error!
 
 ![auction4](https://user-images.githubusercontent.com/73397927/175773978-fcf694e8-f9ea-494d-844a-25a3399f9a80.jpg)
